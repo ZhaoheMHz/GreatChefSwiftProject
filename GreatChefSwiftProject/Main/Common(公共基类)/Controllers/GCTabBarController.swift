@@ -51,7 +51,7 @@ class GCTabBarController: UITabBarController {
         self.configTabbarItem(vc: self.dynamicVC!, title: "动态", image: UIImage(imageLiteralResourceName: "tab_home_un"), selectedImage: UIImage(imageLiteralResourceName: "tab_home"));
         
         self.mineVC = GCMineController()
-        self.configTabbarItem(vc: self.mineVC!, title: "我的", image: UIImage(imageLiteralResourceName: "tab_home_un"), selectedImage: UIImage(imageLiteralResourceName: "tab_home"));
+        self.configTabbarItem(vc: self.mineVC!, title: "我的", image: UIImage(imageLiteralResourceName: "tab_my_un"), selectedImage: UIImage(imageLiteralResourceName: "tab_my"));
     }
     
     

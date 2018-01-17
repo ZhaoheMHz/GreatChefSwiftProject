@@ -12,7 +12,7 @@ class GCCommonViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        
     }
 
 }

@@ -20,6 +20,20 @@
                ReferencedContainer = "container:GreatChefSwiftProject.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "5DBDBAA43FCEB47F083C4F2C9ADD1D0D"
+               BuildableName = "Pods_GreatChefSwiftProject.framework"
+               BlueprintName = "Pods-GreatChefSwiftProject"
+               ReferencedContainer = "container:Pods/Pods.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
    <TestAction

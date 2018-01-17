@@ -3,7 +3,7 @@ use_frameworks!
 
 target 'GreatChefSwiftProject' do
 
-#pod 'SnapKit', '~> 3.0'
+pod 'SnapKit', '~> 3.0.1'
 
 end
 
